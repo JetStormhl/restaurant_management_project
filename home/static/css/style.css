@@ -1,8 +1,11 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: #f0f0f0;
+    color: #333;
+    margin: 20px;
 }
 
-hi {
+h1 {
     color: #333;
+    text-align: center;
 }
